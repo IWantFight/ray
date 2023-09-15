@@ -99,3 +99,4 @@ if [ $BUILD_EXAMPLES ]; then
 fi
 
 rm -rf "$WHEEL_DIR"
+# note first my own commit
